@@ -1,5 +1,5 @@
 
-# Employee ETL Pipeline Data Engineering Project on Google Cloud Platform
+# End-to-End Employee Data Engineering Pipeline on GCP
 
 ## Project Overview
 
