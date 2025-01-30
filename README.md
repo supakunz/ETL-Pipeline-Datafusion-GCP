@@ -21,22 +21,22 @@ Google Cloud Platform:
 
 
 ## Data Storage
-The raw data and output files are too large to store in the repository. They are stored on Google Drive.
 
-- **Raw data** link : https://drive.google.com/drive/folders/13KLFWQbJXNKjIoQp4QL3Mahyfvn-isaA?usp=drive_link
-
-- **Output** link : https://drive.google.com/drive/folders/1c_BNYN2IqQGQFtJmo-gaGyE_LwBfY6kX?usp=drive_link
+The raw data files are stored in the `data` folder of the repository. These files are used as input for the processing pipeline and are essential for the overall project. 
 
 
 ## Data Modeling
 ![Uber Data Model](https://github.com/user-attachments/assets/73b813d1-733a-4109-b925-51384fbf3a46)
 
-## ETL Pipeline
-<img alt="ETL pipeline" src="https://github.com/user-attachments/assets/7fef594a-c114-4943-9b58-1254a504ecec">
+## Data Fusion Pipeline
+<img alt="ETL pipeline" src="https://github.com/user-attachments/assets/05b31dbd-444c-48d0-a476-5ae87818dec6">
+
+## Airflow Pipeline
+<img alt="ETL pipeline" src="https://github.com/user-attachments/assets/0c5abaa3-ee33-47a4-a863-034391b34e65">
 
 ## Output
-[<img src="https://github.com/user-attachments/assets/9f373252-43cd-43ac-970c-f262ea87e39d" width=70% height=70%>](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019)
-* The final output from Looker Studio can be accessed via the following link: [View Dashboard](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019). Note: The dashboard reads data from a static CSV file exported from BigQuery.
+[<img src="https://github.com/user-attachments/assets/4471ed9d-aa99-4a47-8c5d-3bbf6c48b629" width=70% height=70%>](https://lookerstudio.google.com/reporting/06afc17e-5b14-40be-b797-47dc3729b332)
+* The final output from Looker Studio can be accessed via the following link: [View Dashboard](https://lookerstudio.google.com/reporting/06afc17e-5b14-40be-b797-47dc3729b332). Note: The dashboard reads data from a static CSV file exported from BigQuery.
 
 
 ## Contact
