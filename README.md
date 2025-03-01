@@ -1,8 +1,6 @@
 
 # End-to-End Employee Data Engineering Pipeline on GCP
 
-## Project Overview
-
 This is an end-to-end modern data engineering project deployed on Google Cloud Platform, including the deployment of an ETL pipeline using **Google Cloud Data Fusion** for data transformation. The transformed data is stored in **BigQuery** for analysis, and an interactive dashboard is generated using **Looker** to provide actionable insights.
 
 ## Architecture
