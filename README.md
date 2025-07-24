@@ -39,5 +39,8 @@ The raw data files are stored in the `data` folder of the repository. These file
 * The final output from Looker Studio can be accessed via the following link: [View Dashboard](https://lookerstudio.google.com/reporting/06afc17e-5b14-40be-b797-47dc3729b332). Note: The dashboard reads data from a static CSV file exported from BigQuery.
 
 
-## Contact
-Supakun Thata (supakunt.thata@gmail.com)
+## 🙋‍♂️ Contact
+
+Developed by **Supakun Thata**  
+📧 Email: supakunt.thata@gmail.com  
+🔗 GitHub: [SupakunZ](https://github.com/SupakunZ)
